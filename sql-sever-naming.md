@@ -45,6 +45,7 @@ reference: https://www.isbe.net/Documents/SQL_server_standards.pdf
 ### Constraints
 
 > **{constraint type}{table name}_{field name}**
+> 
 > **PK**: primary key
 >
 > **FK**: foreign key
